@@ -44,11 +44,11 @@ class CardPage extends StatelessWidget {
             ),
           ),
           Row(children: [
-            FlatButton(
+            TextButton(
               child: Text("Ok"),
               onPressed: () {},
             ),
-            FlatButton(
+            TextButton(
               child: Text("Cancel"),
               onPressed: () {},
             )

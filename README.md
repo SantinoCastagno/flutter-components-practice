@@ -1,20 +1,40 @@
-# components practice
 
-A Flutter project to practice the basic Widgets.
+# Basic Flutter components
 
-## Autor
+This project is part of the Flutter course created 
+by Fernando Herrera and has a purpose learn and practice basics
+components of [Flutter SDK](https://flutter.dev/).
 
-* **Santino Castagno** - [SantinoCastagno](https://github.com/SantinoCastagno)
 
-## Getting Started
+## Run Locally
 
-This project is a starting point for a Flutter application.
+Clone the project
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+  git clone https://github.com/SantinoCastagno/flutter-components-practice
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Go to the project directory
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+  cd flutter-components-practice
+```
+
+Install dependencies
+
+```bash
+  flutter pub get
+```
+
+Connect a device and start the app in debug mode
+
+```bash
+  flutter run
+```
+
+  
+## Authors
+
+- [@SantinoCastagno](https://github.com/SantinoCastagno)
+
+  
