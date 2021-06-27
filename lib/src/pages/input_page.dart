@@ -44,7 +44,7 @@ class _InputPageState extends State<InputPage> {
     return ListTile(
       title: Text("El dato ingresado es:$_direccion"),
       trailing: Text(_opcionElegida),
-      subtitle: Text("Holis"),
+      subtitle: Text("Subtitulo"),
     );
   }
 
