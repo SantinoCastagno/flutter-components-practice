@@ -2,8 +2,7 @@
 # Basic Flutter components
 
 This project is part of the [Flutter course](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/) created 
-by Fernando Herrera and has a purpose learn and practice basics
-components of [Flutter SDK](https://flutter.dev/).
+by Fernando Herrera and its goal is learning and practicing basic widgets components of [Flutter SDK](https://flutter.dev/).
 
 ## Screenshots
 
